@@ -1,0 +1,14 @@
+.bgimg{
+    background-image: url(Hole.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.white
+{
+    color: white;
+    text-align: center;
+}
+.center
+{
+    text-align: center;
+}

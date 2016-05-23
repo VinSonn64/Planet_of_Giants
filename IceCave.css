@@ -1,0 +1,12 @@
+.bgimg{
+    background-image: url(IceCave.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.back{
+ background-color: white;
+ text-align: center;
+}
+.center{
+    text-align: center;
+}

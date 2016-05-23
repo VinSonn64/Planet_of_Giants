@@ -1,0 +1,15 @@
+.bgimg{
+    background-image: url(Oasis2.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.white
+{
+    text-align: center;
+    float: right;
+    color: black;
+}
+.center
+{
+    text-align: center;
+}

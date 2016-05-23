@@ -1,0 +1,14 @@
+.bgimg{
+    background-image: url(DesertSands.jpg);
+    background-size: 100% 250%;
+    background-repeat: no-repeat;
+}
+.center
+{
+    text-align: center;
+    color: black;
+}
+
+    .center1{
+        text-align: center;
+    }

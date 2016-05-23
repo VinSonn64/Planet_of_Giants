@@ -1,0 +1,15 @@
+.bgimg{
+    background-image: url(Jungle.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.white
+{
+    color: white;
+    background-color: black;
+}
+.center
+{
+    text-align: center;
+   
+}

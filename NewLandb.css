@@ -1,0 +1,9 @@
+.bgimg{
+    background-image: url(ForestArea.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.flrt
+{
+    float: right;
+}

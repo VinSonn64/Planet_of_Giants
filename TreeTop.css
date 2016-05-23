@@ -1,0 +1,16 @@
+.bgimg{
+    background-image: url(GiantTree.jpg);
+    background-size: 100% 300%;
+    background-repeat: no-repeat;
+}
+.white
+{
+    background-color: black;
+}
+.back{
+ color: white;
+}
+.center
+{
+    text-align: center;
+}

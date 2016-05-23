@@ -1,0 +1,15 @@
+.bgimg{
+    background-image: url(Waterfalls.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.back{
+ color: white;
+ background-color: black;
+
+}
+.center
+{
+    text-align: center;
+}

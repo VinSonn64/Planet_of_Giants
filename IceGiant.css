@@ -1,0 +1,13 @@
+.bgimg{
+    background-image: url(IceGiant.jpg);
+    background-size: 100% 250%;
+}
+.white
+{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
